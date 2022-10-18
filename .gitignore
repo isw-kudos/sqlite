@@ -6,6 +6,7 @@
 *.lo
 *.o
 *.obj
+*.res
 
 # Precompiled Headers
 *.gch
@@ -30,3 +31,22 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio files
+.vs
+*.exp
+*.idb
+*.ilk
+*.iobj
+*.ipdb
+*.log
+*.ncb
+*.opt
+*.pdb
+*.projdata
+*.sdf
+*.suo
+*.tlog
+*.user
+BuildLog.htm
+UpgradeLog.htm
