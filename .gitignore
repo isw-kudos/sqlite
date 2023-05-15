@@ -48,5 +48,7 @@
 *.suo
 *.tlog
 *.user
+*.recipe
+*.FileListAbsolute.txt
 BuildLog.htm
 UpgradeLog.htm
